@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Python dependencies for the Alchemy Screener project
+Flask
+requests
+pandas
+numpy
+SQLAlchemy
+
+# Add any other dependencies specific to your project here.
