@@ -1,0 +1,8 @@
+pillar_weights:
+  asset_allocation: 0.5
+  risk_management: 0.3
+  performance_metrics: 0.2
+settings:
+  alert_threshold: 0.75
+  max_investment: 10000
+  analysis_period: '30d'
